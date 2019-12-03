@@ -1,0 +1,83 @@
+{
+    "Rice": [
+        {
+            "name": "Basmati",
+            "weight": "20",
+            "price": "72"
+        },
+        {
+            "name": "Indrayni",
+            "weight": "30",
+            "price": "45"
+        },
+        {
+            "name": "sahyadri",
+            "weight": "35",
+            "price": "35"
+        },
+        {
+            "name": "suryaRice",
+            "weight": "20",
+            "price": "45"
+        },
+        {
+            "name": "a",
+            "weight": "23",
+            "price": "43"
+        },
+        {
+            "name": "w1",
+            "weight": "21",
+            "price": "222"
+        }
+    ],
+    "Pulses": [
+        {
+            "name": "split_bengal_gram",
+            "weight": "75",
+            "price": "67"
+        },
+        {
+            "name": "split_black_gram",
+            "weight": "40",
+            "price": "77"
+        },
+        {
+            "name": "split_green_gram",
+            "weight": "20",
+            "price": "63"
+        },
+        {
+            "name": "split_red_gram",
+            "weight": "15",
+            "price": "57"
+        },
+        {
+            "name": "udaddal",
+            "weight": "20",
+            "price": "89"
+        }
+    ],
+    "Wheats": [
+        {
+            "name": "sahyadri",
+            "weight": "32",
+            "price": "28"
+        },
+        {
+            "name": "surya",
+            "weight": "29",
+            "price": "31"
+        },
+        {
+            "name": "shahigehu",
+            "weight": "41",
+            "price": "53"
+        },
+        {
+            "name": "adc",
+            "weight": "32",
+            "price": "67"
+        }
+    ]
+}

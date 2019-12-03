@@ -1,0 +1,22 @@
+{
+    "ListOfCompany": [
+        {
+            "name": "Wipro",
+            "shareno": 342,
+            "symbol": "#",
+            "price": 4253
+        },
+        {
+            "name": "Airtel",
+            "shareno": 765,
+            "symbol": "@",
+            "price": 1000
+        },
+        {
+            "name": "Idea",
+            "shareno": 876,
+            "symbol": "&",
+            "price": 3000
+        }
+    ]
+}

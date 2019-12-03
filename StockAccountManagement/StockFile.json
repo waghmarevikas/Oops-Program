@@ -1,0 +1,32 @@
+{
+    "Stock":
+    [
+        {
+            "name":"Infosys",
+            "number":"123",
+            "price":2000
+
+        },
+        {
+            "name":"TCS",
+            "number":234,
+            "price":4333
+        },
+        {
+            "name":"Mahendra",
+            "number":251,
+            "price":3000
+        },
+        {
+            "name":"Wipro",
+            "number":787,
+            "price":6000
+        },
+        {
+            "name":"Jio",
+            "number":676,
+            "price":4000
+        }
+
+    ]
+}

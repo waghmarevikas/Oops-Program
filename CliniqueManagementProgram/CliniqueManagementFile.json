@@ -1,0 +1,104 @@
+{
+    "Doctor": [
+        {
+            "drName": "Mahendra",
+            "drId": "25",
+            "speciality": "Cardiologist",
+            "availability": "AM",
+            "NoOfAppointment": 1
+        },
+        {
+            "drName": "Sachin",
+            "drId": "29",
+            "speciality": "Dermatologist",
+            "availability": "PM",
+            "NoOfAppointment": 3
+        },
+        {
+            "drName": "Shubham",
+            "drId": "20",
+            "speciality": "Alergist",
+            "availability": "Both",
+            "NoOfAppointment": 0
+        },
+        {
+            "drName": "Chetan",
+            "drId": "103",
+            "speciality": "Child",
+            "availability": "Both",
+            "NoOfAppointment": 1
+        },
+        {
+            "drName": "Premsing chohan",
+            "drId": "123",
+            "speciality": "love specialist",
+            "availability": "am",
+            "NoOfAppointment": 0
+        }
+    ],
+    "Patient": [
+        {
+            "pName": "vikas",
+            "pId": "19",
+            "mobNo": "6737435735",
+            "age": "21"
+        },
+        {
+            "pName": "Suraj",
+            "pId": "30",
+            "mobNo": "9011548554",
+            "age": "21"
+        },
+        {
+            "pName": "Shankar",
+            "pId": "14",
+            "mobNo": "7798432152",
+            "age": "22"
+        },
+        {
+            "pName": "Ganesh",
+            "pId": "15",
+            "mobNo": "8545254521",
+            "age": "23"
+        },
+        {
+            "pName": "ganesh",
+            "pId": "123",
+            "mobNo": "432233",
+            "age": "26"
+        },
+        {
+            "pName": "ganesh",
+            "pId": "332",
+            "mobNo": "4332",
+            "age": "23"
+        }
+    ],
+    "CliniqueAppointment": [
+        {
+            "drName": "Sachin",
+            "pName": "Vikas",
+            "time": "PM"
+        },
+        {
+            "drName": "Mahendra",
+            "pName": "Mahin",
+            "time": "AM"
+        },
+        {
+            "drName": "Chetan",
+            "pName": "Ganesh",
+            "time": "Both"
+        },
+        {
+            "drName": "Sachin",
+            "pName": "mahi",
+            "time": "PM"
+        },
+        {
+            "drName": "Sachin",
+            "pName": "viku",
+            "time": "PM"
+        }
+    ]
+}
